@@ -38,12 +38,12 @@ p {
 	display: block;
 }
 
-p a {
+a {
 	color: rgba(49, 130, 180, 1);
 	text-decoration: none;
 }
 
-p a:hover {
+a:hover {
 	color: rgba(49, 130, 180, 1);
 	text-decoration: underline;
 }
