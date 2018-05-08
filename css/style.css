@@ -29,7 +29,11 @@ h2, p {
   color: rgba(110, 135, 130, 1);
 }
 
-img {
+hr {
+	5px solid rgba(205, 205, 205, 1);
+}
+
+#header img {
   border: 5px solid rgba(158, 172, 167, 1);
 }
 
