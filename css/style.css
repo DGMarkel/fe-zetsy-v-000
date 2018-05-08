@@ -19,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 
-header {
+h1 {
   color: rgba(145, 160, 155, 1);
   font-size: 7em;
 	margin: 0;
