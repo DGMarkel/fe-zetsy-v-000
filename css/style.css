@@ -47,7 +47,8 @@ p a:hover {
 	text-decoration: underline;
 }
 
-footer {
+figcaption {
+	font-size: .5em;
 	text-align: right;
 }
 
