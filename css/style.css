@@ -38,6 +38,11 @@ p a {
 	text-decoration: none;
 }
 
+p a:hover: {
+	color: rgba(49, 130, 180, 1);
+	text-decoration: underline;
+}
+
 footer {
 	text-align: right;
 }
