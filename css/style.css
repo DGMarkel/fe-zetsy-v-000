@@ -64,12 +64,13 @@ header img {
 }
 
 #press img {
-  border: 5px solid rgba(205, 205, 205, 1);
+
+	border: 5px solid rgba(205, 205, 205, 1);
 	padding: 1px;
-	-webkit-transition: background-color 0.5s ease-out;
-	-moz-transition: background-color 0.5s ease-out;
-	-o-transition: background-color 0.5s ease-out;
-	transition: background-color 0.5s ease-out;
+	-webkit-transition: border-color 0.5s ease-out;
+	-moz-transition: border-color 0.5s ease-out;
+	-o-transition: border-color 0.5s ease-out;
+	transition: border-color 0.5s ease-out;
 }
 
 #press img:hover {
