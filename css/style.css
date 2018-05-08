@@ -40,13 +40,16 @@ hr {
   border-bottom: 1px solid rgba(205, 205, 205, 1);
 }
 
-header img {
-  border: 5px solid rgba(145, 160, 155, 1);
-}
 
 p a {
 	color: rgba(49, 130, 180, 1);
 	text-decoration: none;
+}
+
+/*MEDIA*/
+
+header img {
+  border: 5px solid rgba(145, 160, 155, 1);
 }
 
 #press img {
