@@ -51,7 +51,7 @@ footer {
 }
 
 hr {
- 	border: 1em solid rgba(205, 205, 205, 1);
+ 	border: 0.5px solid rgba(205, 205, 205, 1);
 }
 
 /*MEDIA*/
