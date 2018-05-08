@@ -38,6 +38,10 @@ hr {
 	width: 100%;
 }
 
+#about a {
+	color: rgba(49, 130, 180, 1)
+}
+
 #press img {
   border: 5px solid rgba(205, 205, 205, 1);
 }
