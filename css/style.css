@@ -19,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 
-h1 {
+header {
   color: rgba(145, 160, 155, 1);
   font-size: 7em;
 	margin: 0;
@@ -33,17 +33,16 @@ p {
 	color: rgba(64, 84, 89, 1);
 }
 
+p a {
+	color: rgba(49, 130, 180, 1);
+	text-decoration: none;
+}
+
 hr {
   border: 0;
   height: 0;
   border-top: 1px solid rgba(205, 205, 205, 1);
   border-bottom: 1px solid rgba(205, 205, 205, 1);
-}
-
-
-p a {
-	color: rgba(49, 130, 180, 1);
-	text-decoration: none;
 }
 
 /*MEDIA*/
