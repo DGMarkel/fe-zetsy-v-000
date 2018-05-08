@@ -65,8 +65,9 @@ header img {
 
 #press img {
   border: 5px solid rgba(205, 205, 205, 1);
+	padding: 1px;
 }
 
-/*#press img:hover {
+#press img:hover {
   border: 5px solid rgba(111,	129,	123, 1);
 }
