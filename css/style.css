@@ -29,7 +29,8 @@ h1 {
 }
 
 h2 {
-  color: rgba(110, 135, 130, 1);
+	font-size: 20px;
+	color: rgba(110, 135, 130, 1);
 }
 
 p {
